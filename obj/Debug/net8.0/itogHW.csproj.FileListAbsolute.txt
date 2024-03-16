@@ -12,3 +12,4 @@ D:\Git_educ\itog\itogHW\obj\Debug\net8.0\refint\itogHW.dll
 D:\Git_educ\itog\itogHW\obj\Debug\net8.0\itogHW.pdb
 D:\Git_educ\itog\itogHW\obj\Debug\net8.0\itogHW.genruntimeconfig.cache
 D:\Git_educ\itog\itogHW\obj\Debug\net8.0\ref\itogHW.dll
+D:\Git_educ\itog\itogHW\obj\Debug\net8.0\itogHW.sourcelink.json
