@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("itogHW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12d28dab42dc38ecc43fbd5545af1090a3391b8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0152198c865494c790af4a39a8e453c02801a251")]
 [assembly: System.Reflection.AssemblyProductAttribute("itogHW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("itogHW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

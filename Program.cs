@@ -1,14 +1,11 @@
 ﻿using System;
 
-
-
-
     class Program
     {
     static void Main()
     {
     /// сформировал блок-схему кода 
-    ///string imagePath = "obj/BlokEnd.png";
+    string imagePath = "obj/BlokEnd.png";
     {
         Console.Write("Введите количество элементов в массиве: ");
         int n = int.Parse(Console.ReadLine());
