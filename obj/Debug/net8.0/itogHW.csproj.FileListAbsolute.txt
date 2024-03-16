@@ -1,0 +1,14 @@
+D:\Git_educ\itog\itogHW\bin\Debug\net8.0\itogHW.exe
+D:\Git_educ\itog\itogHW\bin\Debug\net8.0\itogHW.deps.json
+D:\Git_educ\itog\itogHW\bin\Debug\net8.0\itogHW.runtimeconfig.json
+D:\Git_educ\itog\itogHW\bin\Debug\net8.0\itogHW.dll
+D:\Git_educ\itog\itogHW\bin\Debug\net8.0\itogHW.pdb
+D:\Git_educ\itog\itogHW\obj\Debug\net8.0\itogHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_educ\itog\itogHW\obj\Debug\net8.0\itogHW.AssemblyInfoInputs.cache
+D:\Git_educ\itog\itogHW\obj\Debug\net8.0\itogHW.AssemblyInfo.cs
+D:\Git_educ\itog\itogHW\obj\Debug\net8.0\itogHW.csproj.CoreCompileInputs.cache
+D:\Git_educ\itog\itogHW\obj\Debug\net8.0\itogHW.dll
+D:\Git_educ\itog\itogHW\obj\Debug\net8.0\refint\itogHW.dll
+D:\Git_educ\itog\itogHW\obj\Debug\net8.0\itogHW.pdb
+D:\Git_educ\itog\itogHW\obj\Debug\net8.0\itogHW.genruntimeconfig.cache
+D:\Git_educ\itog\itogHW\obj\Debug\net8.0\ref\itogHW.dll
